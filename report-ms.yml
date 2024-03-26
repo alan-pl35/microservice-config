@@ -2,4 +2,4 @@ report:
   template: "{company} was founded in {foundation_date} by {founder} the websites from this company are {web_sites}"
 
 fallback:
-  uri: "http://localhost:8787/companies-ms-fallback/company/{name}"
+  uri: "http://localhost:9200/companies-ms-fallback/company/{name}"
