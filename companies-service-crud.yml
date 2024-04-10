@@ -3,10 +3,3 @@ db:
     url: jdbc:postgresql://localhost:5432/companies
     username: alan-pl
     password: iledev
-db-mysql:
-  access:
-    url: jdbc:mysql://localhost:3306/users
-    username: admin
-    password: admin
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    show-sql: true
