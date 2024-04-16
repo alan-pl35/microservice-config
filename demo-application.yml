@@ -1,0 +1,5 @@
+db:
+  access:
+    url: jdbc:postgresql://config-server:5432/companies
+    username: alan-pl
+    password: iledev
