@@ -1,6 +1,6 @@
 db:
   access:
     url: jdbc:postgresql://db-companies:5432/companies
-    username: alan-tec
-    password: iledev35
+    username: alan-pl
+    password: iledev
     driver-class-name: org.postgresql.Driver
