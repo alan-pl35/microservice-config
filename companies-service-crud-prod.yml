@@ -4,4 +4,3 @@ db:
     username: alan-tec
     password: iledev35
     driver-class-name: org.postgresql.Driver
-    driver-class-name: org.postgresql.Driver
