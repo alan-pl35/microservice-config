@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/companies
+    url: jdbc:postgresql://db-companies:5432/companies
     username: alan-tec
     password: iledev35
     driver-class-name: org.postgresql.Driver
