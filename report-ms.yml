@@ -3,7 +3,7 @@ report:
 
 fallback:
   uri:
-    value: "http://fallback-service:9200/companies-ms-fallback/company/{name}"
+    value: "http://fallback-service:7001/companies-ms-fallback/company/{name}"
 
 regular:
   expression: \{(.*?)\}
