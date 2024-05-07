@@ -1,0 +1,4 @@
+db:
+  mongodb:
+    username: alan-pl
+    password: admin
