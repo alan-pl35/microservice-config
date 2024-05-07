@@ -5,5 +5,4 @@ fallback:
   uri: "http://localhost:9200/companies-ms-fallback/company/{name}"
 
 regular:
-  expression:
-    template: \{(.*?)\}
+  expression: \{(.*?)\}
