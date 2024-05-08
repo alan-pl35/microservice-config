@@ -1,0 +1,3 @@
+auth:
+  validate:
+    uri: http://ms-auth:7010/auth-ms/auth/jwt
