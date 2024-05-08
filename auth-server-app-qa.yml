@@ -6,4 +6,3 @@ db-mysql:
     url: jdbc:mysql://mysql_db:3307/users
     username: admin
     password: admin
-    show-sql: true
